@@ -6,7 +6,7 @@ layout: post
 tags : [kafka]
 ---
 
-[Kafka3 kraft源码剖析合集 ](https://github.com/2pc/notes/issues?q=is%3Aissue+is%3Aopen+label%3Akafka)
+[Kafka3 kraft源码剖析合集 ](https://github.com/2pc/notes/issues?q=is%3Aissue+is%3Aopen+label%3Akafka)   
 . [Kafka3.x 请求处理Apis](https://github.com/2pc/notes/issues/13)   
 . [Kafka3.x 元数据MetadataCache](https://github.com/2pc/notes/issues/12)   
 . [Kafka 3.x Kraft 实现源码分析](https://github.com/2pc/notes/issues/10)   
